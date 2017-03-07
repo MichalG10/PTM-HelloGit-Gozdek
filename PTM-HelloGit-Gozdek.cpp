@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello Git!\n";
+	cout << "Hello GitHub!\nJa, Michał Gozdek, jestem pierwszym autorem tego programu\n";
     return 0;
 }
 
